@@ -17,13 +17,7 @@
     </head>
     <body class="antialiased">
        <div class="header">
-        <p>taheni</p>
-        <p>ryma</p>
-        <p>rania</p>
-        <p>rania</p>
-        @php
-            echo "<p>hello</p>"
-        @endphp
+       
        </div>
     </body>
 </html>
